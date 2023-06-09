@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/loginWithUnstoppable/static/css/main.8cbacb42.css",
-    "main.js": "/loginWithUnstoppable/static/js/main.d4a8e8cb.js",
-    "static/media/ud-logo-lockup.svg": "/loginWithUnstoppable/static/media/ud-logo-lockup.20fdef5ae331e8d1e5c03d7610f9adac.svg",
-    "static/media/Unstoppable_Domains_Logo_Mark_Off_White-01.svg": "/loginWithUnstoppable/static/media/Unstoppable_Domains_Logo_Mark_Off_White-01.3e4413de474517d5f9d9.svg",
-    "index.html": "/loginWithUnstoppable/index.html",
-    "main.8cbacb42.css.map": "/loginWithUnstoppable/static/css/main.8cbacb42.css.map",
-    "main.d4a8e8cb.js.map": "/loginWithUnstoppable/static/js/main.d4a8e8cb.js.map"
+    "main.css": "/LoginWithUnstoppable-ClaimsViewerDemo/static/css/main.30e90570.css",
+    "main.js": "/LoginWithUnstoppable-ClaimsViewerDemo/static/js/main.98b0e691.js",
+    "static/media/ud-logo-lockup.svg": "/LoginWithUnstoppable-ClaimsViewerDemo/static/media/ud-logo-lockup.20fdef5ae331e8d1e5c03d7610f9adac.svg",
+    "static/media/Unstoppable_Domains_Logo_Mark_Off_White-01.svg": "/LoginWithUnstoppable-ClaimsViewerDemo/static/media/Unstoppable_Domains_Logo_Mark_Off_White-01.3e4413de474517d5f9d9.svg",
+    "index.html": "/LoginWithUnstoppable-ClaimsViewerDemo/index.html",
+    "main.30e90570.css.map": "/LoginWithUnstoppable-ClaimsViewerDemo/static/css/main.30e90570.css.map",
+    "main.98b0e691.js.map": "/LoginWithUnstoppable-ClaimsViewerDemo/static/js/main.98b0e691.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cbacb42.css",
-    "static/js/main.d4a8e8cb.js"
+    "static/css/main.30e90570.css",
+    "static/js/main.98b0e691.js"
   ]
 }
